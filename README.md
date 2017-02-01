@@ -1,2 +1,3 @@
 # hello-world
-my very first repository on GitHub 
+
+The activity said write "a bit about yourself."
